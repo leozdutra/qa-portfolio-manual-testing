@@ -18,28 +18,7 @@ QA Analyst with over 10 years of background in Business Administration and postg
 
 Former lecturer and business consultant with strong communication, analytical and documentation skills.
 
-Currently focused on transitioning into software testing with an emphasis on:
+Currently focused on transitioning into software testing with emphasis on:
 
 - Business-oriented QA
-- User journey validation
-- Functional testing
-- API testing
-- Quality process improvement
-- Critical thinking and root cause analysis
-
-Fluent communication in English and open to international and remote opportunities.
-
-## Projects
-
-### Project 1: Ecommerce Website Testing (Shopee Simulation)
-
-Includes:
-- Functional test cases
-- Exploratory testing
-- Bug reports
-- Severity and priority classification
-- Test plan for login functionality
-
-### Project 2: API Testing
-
-Looking for remote or international opportunities.
+- User journey valida
