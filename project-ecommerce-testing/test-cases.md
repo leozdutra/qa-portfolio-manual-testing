@@ -26,3 +26,18 @@ Steps:
 
 Expected Result:
 System blocks the action and shows error message.
+
+---
+
+## TC-003 – Discount Not Applied Correctly
+
+Precondition:
+Product has discount campaign active
+
+Steps:
+1. Add product to cart
+2. Open checkout
+3. Verify final price
+
+Expected Result:
+Discount is applied correctly and visible to user.
