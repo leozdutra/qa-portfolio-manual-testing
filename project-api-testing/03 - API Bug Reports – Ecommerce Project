@@ -1,0 +1,13 @@
+# API Bug Reports – Ecommerce Project
+
+1. Login endpoint returns 500 Internal Server Error when password contains special characters  
+   **Severity:** High  
+   **Priority:** Urgent
+
+2. Checkout endpoint allows negative quantity in cart  
+   **Severity:** Critical  
+   **Priority:** High
+
+3. Product endpoint returns inconsistent pricing for same product ID  
+   **Severity:** Medium  
+   **Priority:** Medium
