@@ -41,3 +41,17 @@ Steps:
 
 Expected Result:
 Discount is applied correctly and visible to user.
+
+---
+
+## TC-004 – Add Product Without Internet Connection
+
+Precondition:
+User loses connection
+
+Steps:
+1. Disable internet
+2. Try to add product to cart
+
+Expected Result:
+System shows proper error message and no data loss.
