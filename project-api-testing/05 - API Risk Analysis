@@ -1,0 +1,11 @@
+# API Risk Analysis – Ecommerce Project
+
+## High Risk Areas
+- Checkout endpoint (stock validation, pricing errors)
+- Authentication endpoint (login, token expiration)
+- Discounts and promotions (price calculation)
+
+## Mitigation
+- Priority testing on high-risk endpoints
+- Negative test coverage
+- Logging of all API responses
