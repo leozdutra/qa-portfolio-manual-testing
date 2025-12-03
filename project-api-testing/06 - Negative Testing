@@ -1,0 +1,8 @@
+# Negative Testing – Ecommerce API
+
+- Invalid login credentials (wrong password, invalid email format)
+- Access endpoints without auth token
+- Checkout with quantity exceeding stock
+- Invalid product IDs
+- Malformed request body
+- Special characters in fields
