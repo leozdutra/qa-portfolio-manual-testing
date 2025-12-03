@@ -32,3 +32,16 @@ Includes:
 - Bug reports
 - Severity and priority classification
 - Test plan for login functionality
+
+## Professional Profile
+
+QA Analyst transitioning from Business Administration with advanced English.
+
+Focused on:
+- Manual testing
+- API testing
+- Bug reporting
+- Test documentation
+- Business logic validation
+
+Looking for remote or international opportunities.
