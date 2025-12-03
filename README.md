@@ -1,26 +1,33 @@
 # QA Manual Testing Portfolio
 
-This repository contains examples of manual QA work including:
-
-- Test Cases
-- Bug Reports
-- Test Plans
-- Exploratory Test Scenarios
+This repository contains hands-on QA projects demonstrating manual testing practices, API testing simulation and real-world testing scenarios.
 
 ## Skills Demonstrated
 
-- Writing test cases in international standard format
+- Manual testing and test case design
 - Defect reporting and severity classification
 - Test planning and scope definition
-- Analytical thinking and bug investigation
-- English documentation
-- Understanding of business rules and user behavior
+- API testing (simulated scenarios)
+- Business rules validation
+- Analytical thinking and problem solving
+- English technical documentation
 
-## About Me
+## Professional Profile
 
-I am a QA Analyst transitioning into software testing with a background in Business Administration and advanced English.
+QA Analyst with over 10 years of background in Business Administration and postgraduate studies in Conflict Management and Counseling.
 
-I am focused on building a solid QA foundation and preparing for international remote opportunities in software testing.
+Former lecturer and business consultant with strong communication, analytical and documentation skills.
+
+Currently focused on transitioning into software testing with an emphasis on:
+
+- Business-oriented QA
+- User journey validation
+- Functional testing
+- API testing
+- Quality process improvement
+- Critical thinking and root cause analysis
+
+Fluent communication in English and open to international and remote opportunities.
 
 ## Projects
 
@@ -33,15 +40,6 @@ Includes:
 - Severity and priority classification
 - Test plan for login functionality
 
-## Professional Profile
-
-QA Analyst transitioning from Business Administration with advanced English.
-
-Focused on:
-- Manual testing
-- API testing
-- Bug reporting
-- Test documentation
-- Business logic validation
+### Project 2: API Testing
 
 Looking for remote or international opportunities.
