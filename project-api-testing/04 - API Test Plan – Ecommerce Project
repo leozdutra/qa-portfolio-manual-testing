@@ -1,0 +1,27 @@
+# API Test Plan – Ecommerce Project
+
+## Scope
+- Login, Products, Cart, Checkout endpoints
+- Validations for authentication, stock, discounts, and pricing
+
+## Out of Scope
+- UI validation
+- Delivery processing
+
+## Test Types
+- Functional
+- Negative
+- Security (auth token validation)
+- Performance (optional)
+
+## Environment
+- Postman / REST client
+- Mock server for testing
+
+## Entry Criteria
+- API endpoints deployed
+- Test data prepared
+
+## Exit Criteria
+- All test cases executed
+- Critical and high severity bugs resolved
